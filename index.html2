@@ -1,0 +1,39 @@
+
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Таблица в HTML</title>
+</head>
+
+<body>
+<h1>Опыт работы </h1>
+ <table cellpadding="10" border="1" >
+ <colgroup>
+    <col style="background-color: rgb(77, 90, 212)"/>
+    <col span="2" />
+  </colgroup>
+   <thead>
+ <tr> 
+ </thead> </tr>
+  <tr>
+   <td>номер</td>
+   <td>наименование</td>
+       <td>дата</td>
+       <td>должность</td>
+  </tr>
+  <tr>
+    <td>1</td> <td>агригазавтосервис</td> <td>02.2011</td> <td>Водитель</td>
+    
+  </tr >
+  <tr>
+   <td>2<td> 
+  </tr>
+  <tr>
+    <td>3</td>
+  </tr>
+ </table>   
+
+
+</body>
+</html>

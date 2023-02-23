@@ -1,0 +1,24 @@
+
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Таблица в HTML</title>
+</head>
+
+<body>
+ <table>
+   <h1>Таблица<h1>
+     <p><ur>
+       <li><a href="https://yandex.ru/video/preview/7595152696424262637">наглядный пример таблицы 
+         
+       </li>
+    </ur>
+     </p>
+    <tr><td>наименование </td></tr>
+
+ </table>   
+
+
+</body>
+</html>
